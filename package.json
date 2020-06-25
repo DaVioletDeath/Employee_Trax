@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/DaVioletDeath/Employee_Trax#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^7.2.0"
   },
+  "devDependencies": {},
   "description": ""
 }
