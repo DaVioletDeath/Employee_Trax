@@ -7,7 +7,7 @@ inquirer.prompt([
       message: "What would you like to select?",
       name: "choice",
       choices: [
-          
+
       ]
     }
   ])
